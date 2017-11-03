@@ -48,7 +48,6 @@ public class StarFigures {
 		}
 		public static void drawfigure5() {
 			//Final Figure
-		    	//drawfigure4();//Calls for previously used code to complete figure
 		    	drawfigure1();//Calls for previously used code to complete figure
 		    	drawfigure2();//Calls for previously used code to complete figure
 		    	}
